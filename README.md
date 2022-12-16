@@ -1,13 +1,13 @@
-# { 🎨·🧑🏻‍🎨 } Frontend design exam
+## resea - LegalTech 
 
-- https://www.programiz.com/
+### The Legaltech cheat sheet. All you need to know about legaltech products and use cases
 
-![Screen Shot 2565-07-11 at 10 42 22](https://user-images.githubusercontent.com/73060136/178184523-c4ae6166-5271-4605-b34b-f7901c51e5b3.png)
+> provides an overview of legaltech products (by category, by function and by consumer type), use cases, the major vendors and the most useful directories for further learning. By the end of this article you will understand legaltech in much greater detail, talk more confidently about its applications and have a grounding to further your own understanding!
 
-- https://www.huboo.com/
+B. Legaltech by consumer emphasis
 
-![Screen Shot 2565-07-12 at 13 39 54](https://user-images.githubusercontent.com/73060136/178425194-b3f60900-e5fd-4810-adad-43275f055d39.png)
+A useful corollary to the above approach is this excellent infographic via Jae Um of Six Parsecs via Legal Evolution, which organises legaltech use cases by consumer emphasis:
 
-- https://www.youtube.com/watch?v=ZU-drSVodBw&t=242s
+- web : https://lawtomated.com/the-legaltech-cheat-sheet-all-you-need-to-know-about-legaltech-products-and-use-cases/
 
-![Screen Shot 2565-07-11 at 10 45 00](https://user-images.githubusercontent.com/73060136/178184732-fa6e67ac-1238-4065-aed6-c1dd83f9cc7d.png)
+![law](https://user-images.githubusercontent.com/73060136/208144657-56922410-95f8-4f39-bce9-952ea0362d3c.png)
